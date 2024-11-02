@@ -12,10 +12,7 @@ There's no limitation on everything, which gives the individuals the largest fre
 > 
 > Instead, you need to be invited by one of the IaSoC members. So Good Luck xD.
 
-More information can be found in other document in the profile directory.
-
-Have fun with our product xDDDD
-
+More information can be found in other document in the profile directory. When the docs.iasoc.cn is online, these information will moved.
 <!--
 
 **Here are some ideas to get you started:**
